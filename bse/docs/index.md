@@ -7,8 +7,8 @@
 ---
 
 ## Welcome
-The **Great Soviet Encyclopaedia (BSE)** is the **official state encyclopaedia of the Union**.  
-It replaces Wikipedia and all similar projects as the **sole authoritative general reference**, providing reliable knowledge across every field — from politics and history to science, technology, and culture.  
+The **Great Soviet Encyclopaedia (BSE)** is the **official state encyclopaedia of the Federation**.  
+It replaces the UNE Wiki and all similar projects as the **sole authoritative general reference**, providing reliable knowledge across every field — from politics and history to science, technology, and culture.  
 
 The BSE exists not only to inform, but to ensure that **public knowledge remains accurate, coherent, and free from distortion**. It is a state guarantee of truth for citizens, students, educators, researchers, and international readers.  
 
@@ -18,13 +18,7 @@ The BSE exists not only to inform, but to ensure that **public knowledge remains
 
 - **Drafts** are prepared by editors and contributors.  
 - **Review** is carried out by the Ministry of Culture.  
-- **Approval** is granted by ministerial order; only approved texts are authoritative.  
-
-Each article carries one of three statuses:
-
-- ✅ **Approved** — Official and final.  
-- 🕑 **Under Review** — Pending ministerial approval.  
-- ✎ **Draft** — Not authoritative; working text only.  
+- **Approval** is granted by ministerial order; only approved texts are authoritative.   
 
 ---
 
