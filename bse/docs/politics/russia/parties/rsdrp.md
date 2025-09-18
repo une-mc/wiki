@@ -21,9 +21,21 @@
         <tr><td class="k">Founded:</td><td class="v">2024</td></tr>
         <tr><td class="k">Political position:</td><td class="v">Centre-left</td></tr>
         <tr><td class="k">Ideology:</td><td class="v">Social democracy · Market socialism · Environmentalism</td></tr>
-        <tr><td class="k">Seats in State Duma:</td><td class="v">70</td></tr>
         <tr><td class="k">Colours:</td><td class="v"><span style="color:#e60026;">■ Red</span> </br> <span style="color:#ff8fab;">■ Pink</span></td></tr>
         <tr><td class="k">Slogan:</td><td class="v"><em>Justice, Progress, Renewal</em></td></tr>
+        
+        <tr><td class="k">Seats:</td>
+        <td class="v">
+        <div><strong><small>Interparliamentary Assembly (CIS):</small></strong><br/> 25 / 100</div>
+        <div style="background:#ddd; width:100px; height:10px; position:relative;">
+        <div style="background:#ff8fab; width:25px; height:10px;"></div>
+        </div>
+        <div><strong><small>Supreme Soviet (RSFSR):</small></strong><br/> 40 / 100</div>
+        <div style="background:#ddd; width:100px; height:10px; position:relative;">
+        <div style="background:#ff8fab; width:40px; height:10px;"></div>
+        </div>
+        </td>
+        </tr>
       </table>
     </td></tr>
   </table>
@@ -31,7 +43,7 @@
 
 # Russian Social Democratic Labour Party (RSDRP)
 
-The **Russian Social Democratic Labour Party (RSDRP)** is a centre-left party in the Russian Federation, founded in **2024** under the leadership of **Hugo von Namsgrad**. It advances a synthesis of **social democracy**, **market socialism**, and **environmentalism**, positioning itself as the modern heir to Russia’s social-democratic labour tradition. In the **2024 legislative election**, the party won **70 seats** in the State Duma and entered government in coalition with **Yabloko**.
+The **Russian Social Democratic Labour Party (RSDRP)** is a centre-left party in Russia, founded in **2024** under the leadership of **Hugo von Namsgrad**. It advances a synthesis of **social democracy**, **market socialism**, and **environmentalism**, positioning itself as the modern heir to Russia’s social-democratic labour tradition. In the **2024 legislative election**, the party won **70 seats** in the State Duma and entered government in coalition with **Yabloko**.
 
 ---
 

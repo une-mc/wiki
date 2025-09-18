@@ -13,19 +13,24 @@
         <div class="office-title" style="font-weight:bold; text-align:center;">
           Prime Minister of Russia
         </div>
-        <div class="kv" style="text-align:center;">
+        <div style="text-align:center;">
           In office<br/>11 July – 5 August 2024
         </div>
-        <div class="kv"><strong>Preceded by:</strong> Hugo von Namsgrad</div>
-        <div class="kv"><strong>Succeeded by:</strong> Hugo von Namsgrad</div>
+        <div class="kv"><div class="k">Preceded by</div><div class="v"> Hugo von Namsgrad</div></div>
+        <div class="kv"><div class="k">Succeeded by</div><div class="v"> Hugo von Namsgrad</div></div>
     </tr>
 
-
-<tr><td class="section">
-  <table class="kv">
-    <tr><td class="k">Born:</td><td class="v">Unknown</td></tr>
-    <tr><td class="k">Nationality:</td><td class="v">Russian</td></tr>
-    <tr><td class="k">Political party:</td><td class="v">LDPR</td></tr>
+    <tr>
+      <td class="section">
+        <div class="office-title" style="font-weight:bold; text-align:center; margin-bottom:.5rem;">
+          Personal details
+        </div>
+        <div class="kv"><span class="k">Born</span><span class="v"> Unknown</span></div>
+        <div class="kv"><span class="k">Nationality</span><span class="v">Russian</span></div>
+        <div class="kv"><span class="k">Party</span><span class="v">LDPR</span></div>
+        <div class="kv"><span class="k">Occupation</span><span class="v">Politician</span></div>
+      </td>
+    </tr>
   </table>
 </td></tr>
 

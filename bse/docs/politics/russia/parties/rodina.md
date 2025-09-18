@@ -21,8 +21,18 @@
         <tr><td class="k">Leader:</td><td class="v">Vacant (Executive Council)</td></tr>
         <tr><td class="k">Founded:</td><td class="v">2024</td></tr>
         <tr><td class="k">Party colours:</td><td class="v"><span style="color:#0f5cc0;">■ Blue</span></td></tr>
-        <tr><td class="k">Seats in State Duma:</td><td class="v">5</td></tr>
-        <tr><td class="k">Regional office:</td><td class="v">Presidency of the Republic of Karelia</td></tr>
+        <tr><td class="k">Seats:</td>
+        <td class="v">
+        <div><strong><small>Interparliamentary Assembly (CIS):</small></strong><br/> 8 / 100</div>
+        <div style="background:#ddd; width:100px; height:10px; position:relative;">
+        <div style="background:#0f5cc0; width:8px; height:10px;"></div>
+        </div>
+        <div><strong><small>Supreme Soviet (RSFSR):</small></strong><br/> 5 / 100</div>
+        <div style="background:#ddd; width:100px; height:10px; position:relative;">
+        <div style="background:#0f5cc0; width:5px; height:10px;"></div>
+        </div>
+        </td>
+        </tr>
       </table>
     </td></tr>
   </table>
@@ -30,7 +40,7 @@
 
 # Rodina
 
-**Rodina** (Russian: *Родина*, “Homeland”) is a conservative political party in the Russian Federation that emerged from the breakup of the **Rodina Coalition** in 2024. It positions itself as a culturally traditional, nationally minded alternative to both the centre-left and the far-right, maintaining a modest federal presence while exercising executive authority in **Karelia**.
+**Rodina** (Russian: *Родина*, “Homeland”) is a conservative political party in Russia that emerged from the breakup of the **Rodina Coalition** in 2024. It positions itself as a culturally traditional, nationally minded alternative to both the centre-left and the far-right, maintaining a modest federal presence while exercising executive authority in **Karelia**.
 
 ---
 

@@ -12,12 +12,23 @@
 <tr><td class="section">
   <table class="kv">
     <tr><td class="k">Abbreviation:</td><td class="v">KPRF</td></tr>
+    <tr><td class="k">Leadership:</td><td class="v">Collective leadership</td></tr>
     <tr><td class="k">Founded:</td><td class="v">2024</td></tr>
     <tr><td class="k">Political position:</td><td class="v">Left-wing</td></tr>
     <tr><td class="k">Ideology:</td><td class="v">State socialism · Strategic public ownership · Workers’ rights</td></tr>
-    <tr><td class="k">Leadership:</td><td class="v">Collective leadership</td></tr>
     <tr><td class="k">Party colours:</td><td class="v"><span style="color:#e60026;">■ Red</span> </br> <span style="color:#ffcc00;">■ Yellow</span></td></tr>
-    <tr><td class="k">Seats in Supreme Soviet:</td><td class="v">5</td></tr>
+    <tr><td class="k">Slogan:</td><td class="v"><em>Workers of the world, Unite !</em></td></tr>
+    <tr><td class="k">Seats:</td>
+        <td class="v">
+        <div><strong><small>Interparliamentary Assembly (CIS):</small></strong><br/> 17 / 100</div>
+        <div style="background:#ddd; width:100px; height:10px; position:relative;">
+        <div style="background:#e60026; width:17px; height:10px;"></div>
+        </div>
+        <div><strong><small>Supreme Soviet (RSFSR):</small></strong><br/> 5 / 100</div>
+        <div style="background:#ddd; width:100px; height:10px; position:relative;">
+        <div style="background:#e60026; width:5px; height:10px;"></div>
+        </div>
+        </td>
   </table>
 </td></tr>
 
@@ -26,7 +37,7 @@
 
 # Communist Party of the Russian Federation
 
-The **Communist Party of the Russian Federation** (Russian: *Коммунистическая партия Российской Федерации*), abbreviated **KPRF**, is a left-wing political party in the Russian Federation. Founded in 2024, it positions itself as heir to Soviet-era traditions, advocating extensive public ownership, worker protections, and state-led development.
+The **Communist Party of the Russian Federation** (Russian: *Коммунистическая партия Российской Федерации*), abbreviated **KPRF**, is a left-wing political party in Russia. Founded in 2024, it positions itself as heir to Soviet-era traditions, advocating extensive public ownership, worker protections, and state-led development.
 
 ---
 

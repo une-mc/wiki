@@ -21,8 +21,22 @@
         <tr><td class="k">Leader:</td><td class="v">Xee</td></tr>
         <tr><td class="k">Founded:</td><td class="v">2024</td></tr>
         <tr><td class="k">Party colours:</td><td class="v"><span style="color:#0000cc;">■ Blue</span> </br> <span style="color:#ffcc00;">■ Yellow</span></td></tr>
-        <tr><td class="k">Seats in State Duma:</td><td class="v">10</td></tr>
-        <tr><td class="k">Regional office:</td><td class="v">Presidency of the PMR (since 2025)</td></tr>
+        <tr><td class="k">Seats:</td>
+        <td class="v">
+            <div><strong><small>Interparliamentary Assembly (CIS):</small></strong><br/> 8 / 100</div>
+            <div style="background:#ddd; width:100px; height:10px; position:relative;">
+            <div style="background:#ffcc00; width:8px; height:10px;"></div>
+            </div>
+            <div><strong><small>Supreme Soviet (RSFSR):</small></strong><br/> 10 / 100</div>
+            <div style="background:#ddd; width:100px; height:10px; position:relative;">
+            <div style="background:#ffcc00; width:10px; height:10px;"></div>
+            </div>
+            <div><strong><small>Supreme Council (PMR):</small></strong><br/> 80 / 100</div>
+            <div style="background:#ddd; width:100px; height:10px; position:relative;">
+            <div style="background:#ffcc00; width:80px; height:10px;"></div>
+            </div>
+        </td>
+        </tr>
       </table>
     </td></tr>
   </table>
@@ -30,7 +44,7 @@
 
 # Liberal Democratic Party of Russia (LDPR)
 
-The **Liberal Democratic Party of Russia (LDPR)** (Russian: *Либерально-демократическая партия России*) is a far-right populist party active in the Russian Federation. Despite its name, it is neither liberal nor particularly democratic: the LDPR combines **national populism, authoritarian conservatism and Russian nationalism** under a flamboyant and combative leadership.  
+The **Liberal Democratic Party of Russia (LDPR)** (Russian: *Либерально-демократическая партия России*) is a far-right populist party active in Russia, as well as in the Pridnestrovian Moldavian Republic (PMR). Despite its name, it is neither liberal nor particularly democratic: the LDPR combines **national populism, authoritarian conservatism and Russian nationalism** under a flamboyant and combative leadership.  
 
 Founded in 2024, the party quickly carved out a niche by railing against elites, promising to defend the “ordinary Russian,” and advocating a strong, centralised state. It is led by **Xee**.
 

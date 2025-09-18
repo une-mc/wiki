@@ -54,6 +54,7 @@ nav:
           - Ukraine: countries/ukraine.md
           - Belarus: countries/belarus.md
           - Pridnestrovie: countries/pridnestrovie.md
+          - Austria: countries/austria.md
           - Historical:
               - Russian Federation (2024-2025): countries/russian-federation.md
       - People:
@@ -79,4 +80,16 @@ nav:
                   - 2024 Constitution: politics/russia/constitutions/2024.md
                   - Summer 2025 debates: politics/russia/constitutions/summer-2025.md
                   - September Constitution: politics/russia/constitutions/september-constitution.md 
-
+      - Geography:
+          - Russia:
+              - Cities:
+                  - Moscow: geography/russia/cities/moscow.md
+                  - Smolensk: geography/russia/cities/smolensk.md
+              - Regions:
+                  - Republic of Karelia: geography/russia/regions/karelia.md
+                  - Smolensk Oblast: geography/russia/regions/smolensk.md
+                  - Tver Oblast: geography/russia/regions/tver.md
+      - Economy:
+          - Russia:
+              - Companies:
+                  - Vodka Monoly: economy/russia/companies/vodka-monopoly.md
