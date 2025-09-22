@@ -36,8 +36,6 @@
     <tr><td class="k">Government type:</td><td class="v">Federal republic</td></tr>
     <tr><td class="k">Legislature:</td><td class="v">Supreme Soviet</td></tr>
     <tr><td class="k">Formation:</td><td class="v">9 may 2024</td></tr>
-    <tr><td class="k">Dissolution:</td><td class="v">16 September 2025</td></tr>
-    <tr><td class="k">Succeeded by:</td><td class="v">RSFSR</td></tr>
     <tr><td class="k">Population:</td><td class="v">6 (2025 est.)</td></tr>
     <tr><td class="k">Land area:</td><td class="v">78,501 chunks</td></tr>
     <tr><td class="k">Currency:</td><td class="v">Russian Ruble (RUB)</td></tr>
@@ -107,6 +105,9 @@ The Russian Federation is a **federal republic** headed by a Prime Minister but 
 
 The economy is dominated by **heavy industry**, with Smolensk as its industrial hub and Tver redirected toward light industry.
 Food security is achieved through a mixed system, including Nether-sourced supplies and domestic agriculture. Infrastructure expansion, especially rail, underpinned industrialisation.
+
+
+On **21 September 2025**, Russia was among the first countries to adopt the **euro (€)** as its reserve and trade currency, replacing the **diamond**. This move was coordinated with **Britain** and **Ukraine**, marking a major shift in international economic alignment and signalling Russia’s intent to integrate more closely with its key partners.
 
 ---
 
