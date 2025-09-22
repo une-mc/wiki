@@ -50,13 +50,13 @@
 
 # Russian Federation
 
-The **Russian Federation** (Russian: Российская Федерация, *Rossiyskaya Federatsiya*) was the state governing Russia between **9 May 2024** and **16 September 2025**. It was established with the adoption of the 2024 Constitution, replacing the unstable transitional structures that had followed the collapse of earlier political regimes. The Federation was succeeded by the **Russian Soviet Federative Socialist Republic (RSFSR)** with the adoption of the September 2025 Constitution.
+The **Russian Federation** (Russian: Российская Федерация, *Rossiyskaya Federatsiya*) is the largest state in Eastern Europe and Northern Asia. Established in its present form in 2024, it is the successor to the pre-existing Russian state, restructured under a programme of political and administrative reform. Russia retains Moscow as its capital and largest city, and continues to function as the principal political and economic power in the region.  
 
 ---
 
 ## Geography
 
-The Russian Federation extended across Eastern Europe and Northern Asia, sharing land borders with Belarus, Ukraine, Kazakhstan, Mongolia, China, and numerous other states. It commanded coastlines on the Arctic Ocean to the north and the Pacific Ocean to the east.
+The Russian Federation extends across Eastern Europe and Northern Asia, sharing land borders with Belarus, Ukraine, Kazakhstan, Mongolia, China, and numerous other states. It commanded coastlines on the Arctic Ocean to the north and the Pacific Ocean to the east.
 Its territory included a wide variety of landscapes, from the European plain and the Ural Mountains to the Siberian taiga and Far Eastern maritime regions. Russia’s sheer scale and diverse environments shaped its strategic and economic position throughout the Federation’s brief existence.
 
 ---
@@ -83,18 +83,21 @@ The Federation rationalised its patchwork of subnational entities: *krais* and a
 
 Initially cautious in its outreach to Europe, the Federation refused integration with Western institutions such as **Eurorail** and the **NEEU**. By 2025, Russia had shifted decisively toward post-Soviet integration, founding the **Commonwealth of Independent States (CIS)** at the Minsk Summit.
 
-### Dissolution and succession
+### Attempts at constitutional reform (2025)
 
-By summer 2025, political consensus held that the 2024 Constitution was an unsustainable compromise. On **16 September 2025**, the **September Constitution** was adopted, formally dissolving the Federation and establishing the **RSFSR** in its place.
+By mid-2025, political consensus was forming that the 2024 Constitution was a flawed compromise, prone to instability. On **16 September 2025**, the Supreme Soviet adopted the so-called **September Constitution**, which aimed to abolish the presidency, strengthen parliament, and reconstitute the state as the **RSFSR**.  
+
+However, only 45% of deputies supported the draft. On **19 September 2025**, the **Supreme Court of Russia** ruled that such a relative majority was insufficient to replace the constitution, invalidating the reform. The Russian Federation thus continues to exist under the 2024 framework, while debates over future constitutional change remain unresolved.
+
 
 ---
 
 ## Government & Politics
 
-The Russian Federation was a **federal republic** headed by a Prime Minister but with a powerful Presidency:
+The Russian Federation is a **federal republic** headed by a Prime Minister but with a powerful Presidency:
 
 * The President could appoint the PM and dissolve the legislature.
-* The **Supreme Soviet** (unicameral) was the legislative authority.
+* The **Supreme Soviet** (unicameral) is the legislative authority.
 * Republics retained limited autonomy; oblasts were standardised as units.
 * Coalition governments were common, though instability remained.
 
@@ -102,8 +105,8 @@ The Russian Federation was a **federal republic** headed by a Prime Minister but
 
 ## Economy
 
-The economy was dominated by **heavy industry**, with Smolensk as its industrial hub and Tver redirected toward light industry.
-Food security was achieved through a mixed system, including Nether-sourced supplies and domestic agriculture. Infrastructure expansion, especially rail, underpinned industrialisation.
+The economy is dominated by **heavy industry**, with Smolensk as its industrial hub and Tver redirected toward light industry.
+Food security is achieved through a mixed system, including Nether-sourced supplies and domestic agriculture. Infrastructure expansion, especially rail, underpinned industrialisation.
 
 ---
 

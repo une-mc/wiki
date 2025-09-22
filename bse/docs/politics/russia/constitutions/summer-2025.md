@@ -1,6 +1,6 @@
 # Summer 2025 Constitutional Debates
 
-The **Summer 2025 Constitutional Debates** were a turning point in Russian politics, centred on the effort to replace the **9 May 2024 Constitution**. Running through June and July 2025, they exposed the fault lines between Russia’s main political forces and ended with the authorisation of a new socialist constitution — thanks not to new allies, but to the abstention of **Yabloko**, which allowed the motion to pass.
+The **Summer 2025 Constitutional Debates** were a turning point in Russian politics, centred on the effort to replace the **9 May 2024 Constitution**. Running through June and July 2025, they exposed the fault lines between Russia’s main political forces and culminated in the adoption of a new **September Constitution** — which was later struck down by the courts.
 
 ---
 
@@ -26,23 +26,23 @@ Despite these amendments, the RSDRP argued the structure of the 2024 Constitutio
 
 ## Positions of the parties
 
-* **RSDRP (Social Democrats):** Sought a new socialist constitution enshrining welfare guarantees, parliamentary authority, and state economic direction.
-* **KPRF (Communists):** Supported replacement but wanted even stronger provisions on state ownership and planning.
-* **Yabloko (Liberals):** Opposed socialist measures outright, but open to abstention in return for deregulation and lighter state economic controls.
-* **Rodina (Conservatives):** Favoured protection of private property and rejected socialist constitutionalism.
-* **LDPR:** Called for centralised nationalist authority, dismissing the debates as empty.
+* **RSDRP (Social Democrats):** Sought a new socialist constitution enshrining welfare guarantees, parliamentary authority, and state economic direction.  
+* **KPRF (Communists):** Supported replacement but wanted even stronger provisions on state ownership and planning.  
+* **Yabloko (Liberals):** Opposed socialist measures outright, but open to abstention in return for deregulation and lighter state economic controls.  
+* **Rodina (Conservatives):** Favoured protection of private property and rejected socialist constitutionalism.  
+* **LDPR:** Called for centralised nationalist authority, dismissing the debates as empty.  
 
 ---
 
 ## Course of the debates
 
-By mid-2025, the RSDRP concluded that left-wing votes alone were insufficient. Negotiations with Yabloko followed, centred on economic concessions.
+By mid-2025, the RSDRP concluded that left-wing votes alone were insufficient. Negotiations with Yabloko followed, centred on economic concessions.  
 
-The eventual compromise secured Yabloko’s **abstention** in the decisive vote — not support. In exchange, the government agreed to:
+The eventual compromise secured Yabloko’s **abstention** in the decisive vote — not support. In exchange, the government agreed to:  
 
-* Loosen state price controls in certain sectors.
-* Permit greater use of public–private partnerships.
-* Guarantee civil and political rights provisions would remain in the new draft.
+* Loosen state price controls in certain sectors.  
+* Permit greater use of public–private partnerships.  
+* Guarantee civil and political rights provisions would remain in the new draft.  
 
 The KPRF accepted these compromises reluctantly, viewing them as the price of advancing the constitutional project.
 
@@ -50,6 +50,8 @@ The KPRF accepted these compromises reluctantly, viewing them as the price of ad
 
 ## Outcome
 
-In late July 2025, the Supreme Soviet authorised the drafting of a **new socialist constitution**. The RSDRP and KPRF voted in favour, Rodina and the LDPR opposed, and Yabloko abstained — allowing the motion to pass.
+In late July 2025, the Supreme Soviet authorised the drafting of a **new socialist constitution**, which became known as the **September Constitution**. The RSDRP and KPRF voted in favour, Rodina and the LDPR opposed, and Yabloko abstained — allowing the motion to pass.  
 
-This decision formally signalled the end of the **9 May 2024 Constitution**, clearing the way for the establishment of the **Russian Soviet Federative Socialist Republic (RSFSR)** as the successor state.
+However, on **19 September 2025**, the **Supreme Court of Russia** ruled that the vote’s **relative majority of 45%** was insufficient to override the 2024 Constitution. The September text was therefore invalidated, leaving the **9 May 2024 Constitution** in force.  
+
+The debates nonetheless marked the **closest attempt yet to replace the Federation’s founding law**, and their failure has fuelled ongoing speculation about whether new elections or fresh negotiations will be necessary to resolve Russia’s constitutional deadlock.

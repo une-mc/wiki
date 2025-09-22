@@ -43,7 +43,7 @@
 
 # Russian Social Democratic Labour Party (RSDRP)
 
-The **Russian Social Democratic Labour Party (RSDRP)** is a centre-left party in Russia, founded in **2024** under the leadership of **Hugo von Namsgrad**. It advances a synthesis of **social democracy**, **market socialism**, and **environmentalism**, positioning itself as the modern heir to Russia’s social-democratic labour tradition. In the **2024 legislative election**, the party won **70 seats** in the State Duma and entered government in coalition with **Yabloko**.
+The **Russian Social Democratic Labour Party (RSDRP)** is a centre-left party active in the Russian Federation, founded in **2024** under the leadership of **Hugo von Namsgrad**. It advances a synthesis of **social democracy**, **market socialism**, and **environmentalism**, positioning itself as the modern heir to Russia’s social-democratic labour tradition. In the **2024 legislative election**, the party won **70 seats** in the State Duma and entered government in coalition with **Yabloko**.
 
 ---
 

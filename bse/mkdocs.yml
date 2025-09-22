@@ -50,17 +50,15 @@ nav:
       - Organisations:
           - Commonwealth of Independent States: organisations/cis.md
       - Countries:
-          - Russia: countries/rsfsr.md
+          - Russia: countries/russian-federation.md
           - Ukraine: countries/ukraine.md
           - Belarus: countries/belarus.md
           - Pridnestrovie: countries/pridnestrovie.md
           - Austria: countries/austria.md
-          - Historical:
-              - Russian Federation (2024-2025): countries/russian-federation.md
       - People:
           - Russia:
-            - Hugo: people/hugo.md
-            - Xee: people/xee.md
+            - Hugo: people/russia/hugo.md
+            - Xee: people/russia/xee.md
       - Politics:
           - Russia:
               - Overview: politics/russia/_index.md

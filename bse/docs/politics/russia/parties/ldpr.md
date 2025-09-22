@@ -44,7 +44,7 @@
 
 # Liberal Democratic Party of Russia (LDPR)
 
-The **Liberal Democratic Party of Russia (LDPR)** (Russian: *Либерально-демократическая партия России*) is a far-right populist party active in Russia, as well as in the Pridnestrovian Moldavian Republic (PMR). Despite its name, it is neither liberal nor particularly democratic: the LDPR combines **national populism, authoritarian conservatism and Russian nationalism** under a flamboyant and combative leadership.  
+The **Liberal Democratic Party of Russia (LDPR)** (Russian: *Либерально-демократическая партия России*) is a far-right populist party active in the Russian Federation, as well as in the Pridnestrovian Moldavian Republic (PMR). Despite its name, it is neither liberal nor particularly democratic: the LDPR combines **national populism, authoritarian conservatism and Russian nationalism** under a flamboyant and combative leadership.  
 
 Founded in 2024, the party quickly carved out a niche by railing against elites, promising to defend the “ordinary Russian,” and advocating a strong, centralised state. It is led by **Xee**.
 

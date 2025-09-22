@@ -3,7 +3,7 @@
     <tr><td class="title">Xee<br/><span style="font-weight:400; opacity:.8;">Ксие</span></td></tr>
 
 <tr><td class="section center">
-  <img class="portrait" src="../../_assets/images/people/xee.png" alt="Portrait of Xee" />
+  <img class="portrait" src="../../../_assets/images/people/xee.png" alt="Portrait of Xee" />
   <div class="caption"><em>Xee</em></div>
 </td></tr>
 

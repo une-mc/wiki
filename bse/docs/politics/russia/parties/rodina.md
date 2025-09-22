@@ -40,7 +40,7 @@
 
 # Rodina
 
-**Rodina** (Russian: *Родина*, “Homeland”) is a conservative political party in Russia that emerged from the breakup of the **Rodina Coalition** in 2024. It positions itself as a culturally traditional, nationally minded alternative to both the centre-left and the far-right, maintaining a modest federal presence while exercising executive authority in **Karelia**.
+**Rodina** (Russian: *Родина*, “Homeland”) is a conservative political party in the Russian Federation that emerged from the breakup of the **Rodina Coalition** in 2024. It positions itself as a culturally traditional, nationally minded alternative to both the centre-left and the far-right, maintaining a modest federal presence while exercising executive authority in **Karelia**.
 
 ---
 

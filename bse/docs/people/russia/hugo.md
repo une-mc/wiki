@@ -7,7 +7,7 @@
     <!-- Portrait -->
     <tr>
       <td class="section center">
-        <img class="portrait" src="../../_assets/images/people/hugo.png" alt="Hugo von Namsgrad" />
+        <img class="portrait" src="../../../_assets/images/people/hugo.png" alt="Hugo von Namsgrad" />
         <div class="caption"><em>Hugo von Namsgrad in Hamburg, Nov. 2024</em></div>
       </td>
     </tr>

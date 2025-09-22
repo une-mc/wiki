@@ -37,7 +37,7 @@
 
 # Communist Party of the Russian Federation
 
-The **Communist Party of the Russian Federation** (Russian: *Коммунистическая партия Российской Федерации*), abbreviated **KPRF**, is a left-wing political party in Russia. Founded in 2024, it positions itself as heir to Soviet-era traditions, advocating extensive public ownership, worker protections, and state-led development.
+The **Communist Party of the Russian Federation** (Russian: *Коммунистическая партия Российской Федерации*), abbreviated **KPRF**, is a left-wing political party active in the Russian Federation. Founded in 2024, it positions itself as heir to Soviet-era traditions, advocating extensive public ownership, worker protections, and state-led development.
 
 ---
 
