@@ -28,7 +28,7 @@
             <div style="background:#ddd; width:100px; height:10px; position:relative;">
             <div style="background:#00bfff; width:33px; height:10px;"></div>
             </div>
-            <div><strong><small>Supreme Soviet (RSFSR):</small></strong><br/> 20 / 100</div>
+            <div><strong><small>Supreme Soviet (Russia):</small></strong><br/> 20 / 100</div>
             <div style="background:#ddd; width:100px; height:10px; position:relative;">
             <div style="background:#00bfff; width:20px; height:10px;"></div>
             </div>
@@ -55,7 +55,7 @@
 
 **Yabloko** (Russian: *Яблоко*) is a liberal-centrist political party active across the post-Soviet sphere. Emerging from the collapse of the **Rodina Coalition** in 2024, Yabloko is the principal advocate of liberal democracy, rule of law, and pro-European alignment. It is led by **Kataroudy**, who also serves as the prime minister of Ukraine.
 
-Yabloko dominates post-Soviet politics: it holds **majorities in the Ukrainian and Belarusian parliaments**, the **presidencies and governments of both states**, forms part of the **governing coalition in the RSFSR**, and commands a **plurality in the Interparliamentary Assembly of the CIS**, where it holds the presidency with RSDRP support. The party also maintains a presence in the **Supreme Council of the PMR**.
+Yabloko dominates post-Soviet politics: it holds **majorities in the Ukrainian and Belarusian parliaments**, the **presidencies and governments of both states**, forms part of the **governing coalition in the Russian Federation**, and commands a **plurality in the Interparliamentary Assembly of the CIS**, where it holds the presidency with RSDRP support. The party also maintains a presence in the **Supreme Council of the PMR**.
 
 ---
 

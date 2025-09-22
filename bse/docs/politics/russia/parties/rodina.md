@@ -27,7 +27,7 @@
         <div style="background:#ddd; width:100px; height:10px; position:relative;">
         <div style="background:#0f5cc0; width:8px; height:10px;"></div>
         </div>
-        <div><strong><small>Supreme Soviet (RSFSR):</small></strong><br/> 5 / 100</div>
+        <div><strong><small>Supreme Soviet (Russia):</small></strong><br/> 5 / 100</div>
         <div style="background:#ddd; width:100px; height:10px; position:relative;">
         <div style="background:#0f5cc0; width:5px; height:10px;"></div>
         </div>

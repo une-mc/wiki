@@ -55,10 +55,12 @@ nav:
           - Belarus: countries/belarus.md
           - Pridnestrovie: countries/pridnestrovie.md
           - Austria: countries/austria.md
+          - Luxembourg: countries/luxembourg.md
       - People:
           - Russia:
             - Hugo: people/russia/hugo.md
             - Xee: people/russia/xee.md
+            - The0nlyBob: people/russia/theonlybob.md
       - Politics:
           - Russia:
               - Overview: politics/russia/_index.md

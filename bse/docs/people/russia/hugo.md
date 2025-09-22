@@ -16,23 +16,13 @@
     <tr>
       <td class="section">
         <div class="office-title" style="font-weight:bold; text-align:center;">
-          Premier of the RSFSR
-        </div>
-        <div style="text-align:center;">
-          In office<br/>Since 16 September 2025
-        </div>
-        <div class="kv"><div class="k">Preceded by</div><div class="v"><small>Office established</small></div></div>
-        <div class="kv"><div class="k">Succeeded by</div><div class="v"><small>Incumbent</small></div></div>
-        <br/><br/>
-
-        <div class="office-title" style="font-weight:bold; text-align:center;">
           Prime Minister of Russia
         </div>
         <div style="text-align:center;">
-          In office<br/>5 August 2024 – 16 September 2025
+          In office<br/>Since 5 August 2024
         </div>
         <div class="kv"><div class="k">Preceded by</div><div class="v">Xee</div></div>
-        <div class="kv"><div class="k">Succeeded by</div><div class="v"><small>Office abolished</small></div></div>
+        <div class="kv"><div class="k">Succeeded by</div><div class="v"><small>Incumbent</small></div></div>
         <br/>
 
         <div style="text-align:center;">
@@ -72,9 +62,8 @@
 
 # Hugo von Namsgrad
 
-**Hugo von Namsgrad** (Russian: *Хьюго фон Намсград*; born in Nantes, France, early 2000s) is a Russian statesman currently serving as the first **Premier of the Russian Soviet Federative Socialist Republic (RSFSR)**, a position he has held since the adoption of the September 2025 Constitution. He is also the leader of the **Russian Social Democratic Labour Party (RSDRP)**.
+**Hugo von Namsgrad** (Russian: *Хьюго фон Намсград*; born in Nantes, France, early 2000s) is a Russian statesman who has twice held the office of **Prime Minister of the Russian Federation**: first from **May to July 2024** during the short-lived Rodina coalition government, and again since **August 2024**, leading successive left-wing coalitions. He is also the leader of the **Russian Social Democratic Labour Party (RSDRP)**.
 <br/><br/>
-Before the RSFSR’s establishment, he twice held the office of **Prime Minister of the Russian Federation**: first from **May to July 2024** during the short-lived Rodina coalition government, and again from **August 2024 to September 2025**, leading successive left-wing coalitions. His leadership has spanned the country’s turbulent transition from the fragile compromise of the 2024 Constitution to the more coherent socialist framework of the RSFSR.
 ---
 
 ## Early life
@@ -109,7 +98,7 @@ After a no-confidence vote toppled Xee, von Namsgrad returned as Prime Minister 
 
 Following elections on **4 June 2025**, the SDP allied with **Yabloko**, shifting to a more centrist government. The coalition rolled back price controls and the diamond peg while preserving welfare guarantees and expanding infrastructure through public–private partnerships.
 
-In **March 2025**, von Namsgrad oversaw the SDP’s rebranding as the **Russian Social Democratic Labour Party (RSDLP)**, positioning it as the principal centre-left force in Russian politics.
+In **March 2025**, von Namsgrad oversaw the SDP’s rebranding as the **Russian Social Democratic Labour Party (RSDRP)**, positioning it as the principal centre-left force in Russian politics.
 
 ---
 

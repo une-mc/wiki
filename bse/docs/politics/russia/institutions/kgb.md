@@ -19,7 +19,7 @@
     <tr><td class="k">Predecessors:</td><td class="v">FSB, SVR, FSO, GRU (absorbed in 2025)</td></tr>
     <tr><td class="k">Headquarters:</td><td class="v">Moscow</td></tr>
     <tr><td class="k">Date formed:</td><td class="v">May 2025</td></tr>
-    <tr><td class="k">Parent institution:</td><td class="v">Government of the RSFSR</td></tr>
+    <tr><td class="k">Parent institution:</td><td class="v">Government of the Russian Federation</td></tr>
   </table>
 </td></tr>
 
