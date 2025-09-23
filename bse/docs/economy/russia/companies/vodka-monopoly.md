@@ -1,13 +1,13 @@
 <div class="infobox-right">
   <table class="infobox">
     <tr>
-      <td class="title">Vodka Monoly<br/><span style="font-weight:400; opacity:.8;">Водка Монополия</span></td>
+      <td class="title">Vodka Monopoly<br/><span style="font-weight:400; opacity:.8;">Водка Монополия</span></td>
     </tr>
 
 <!-- Logo -->
 <tr>
   <td class="section center">
-    <img class="logo" src="../../../../_assets/images/companies/vodka-monoly/logo.png" alt="Vodka Monoly logo" />
+    <img class="logo" src="../../../_assets/images/companies/vodka-monopoly/logo.png" alt="Vodka Monopoly logo" />
     <div class="caption"><em>Company logo</em></div>
   </td>
 </tr>
@@ -28,23 +28,21 @@
   </table>
 </div>
 
-# Vodka Monoly
+# Vodka Monopoly
 
-**Vodka Monoly** (Russian: *Водка Монополия*) is the **state-owned alcohol monopoly** of the Russian Soviet Federative Socialist Republic (RSFSR). Established in 2024 as the successor to earlier Soviet and Russian state enterprises in the spirits industry, Vodka Monoly holds exclusive rights to the production, distribution, and export of distilled and brewed alcoholic beverages in Russia.
+**Vodka Monopoly** (Russian: *Водка Монополия*) is the **state-owned alcohol monopoly** of the Russian Federation. Established in 2024 as the successor to earlier Soviet and Russian state enterprises in the spirits industry, Vodka Monopoly holds exclusive rights to the production, distribution, and export of distilled and brewed alcoholic beverages in Russia.
 
 ---
 
 ## History
 
-Vodka Monoly traces its origins to the **Imperial Russian state vodka monopoly** (est. 1894) and its continuation under the **Soviet Union**. After the turbulent transition of 2024 and the adoption of the Russian Federation’s constitution, the state consolidated alcohol production under a single entity.
-
-Following the September 2025 Constitution and the reorganisation of the state economy, the company was reaffirmed as a **strategic monopoly** under direct control of the Council of Ministers.
+Vodka Monopoly traces its origins to the **Imperial Russian state vodka monopoly** (est. 1894) and its continuation under the **Soviet Union**. After the turbulent transition of 2024 and the adoption of the Russian Federation’s constitution, the state consolidated alcohol production under a single entity.
 
 ---
 
 ## Products
 
-Vodka Monoly maintains a **comprehensive portfolio** of alcoholic beverages:
+Vodka Monopoly maintains a **comprehensive portfolio** of alcoholic beverages:
 
 * **Vodka** — its flagship product, produced in standard, premium, and export-labelled lines.
 * **Whiskey** — introduced as part of diversification efforts in the mid-2020s.
@@ -57,12 +55,12 @@ The company operates **distilleries, breweries, and wineries** across Russia, wi
 
 ## Role in the Economy
 
-Vodka Monoly is one of the **largest state-owned revenue generators**, with profits directed into the national budget. It also plays a role in **foreign trade**, exporting select premium lines across the CIS while restricting exports to states under embargo.
+Vodka Monopoly is one of the **largest state-owned revenue generators**, with profits directed into the national budget. It also plays a role in **foreign trade**, exporting select premium lines across the CIS while restricting exports to states under embargo.
 
-The company is a **major supplier to the Russian Armed Forces**, particularly of fortified wines and spirits for ration use. During ceremonial and festive occasions, Vodka Monoly products are prominently featured, reinforcing its image as both a cultural and economic institution.
+The company is a **major supplier to the Russian Armed Forces**, particularly of fortified wines and spirits for ration use. During ceremonial and festive occasions, Vodka Monopoly products are prominently featured, reinforcing its image as both a cultural and economic institution.
 
 ---
 
 ## Governance
 
-Vodka Monoly is supervised by the **Ministry of the Economy**. Senior management is appointed by the government, reflecting the enterprise’s role as both a business and a state instrument of fiscal and social policy.
+Vodka Monopoly is supervised by the **Ministry of the Economy**. Senior management is appointed by the government, reflecting the enterprise’s role as both a business and a state instrument of fiscal and social policy.
