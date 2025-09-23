@@ -92,7 +92,7 @@ The CIS charter left the door open to all former Soviet republics, explicitly in
 
 | Flag | Country / Region  | Status               | Notes                                                                       |
 | ---- | ----------------- | -------------------- | --------------------------------------------------------------------------- |
-| <img src="../../_assets/images/countries/rsfsr/flag.png" width="30px" />  | **Russia**        | Member               | Founding signatory of the Minsk Agreements.                  |
+| <img src="../../_assets/images/countries/russia/flag.png" width="30px" />  | **Russia**        | Member               | Founding signatory of the Minsk Agreements.                  |
 | <img src="../../_assets/images/countries/ukraine/flag.png" width="30px" /> | **Ukraine**       | Member               | Founding signatory of the Minsk Agreements.                                 |
 | <img src="../../_assets/images/countries/belarus/flag.png" width="30px" /> | **Belarus**       | Member               | Founding signatory of the Minsk Agreements.                                 |
 | <img src="../../_assets/images/countries/pmr/flag.png" width="30px" />     | **Pridnestrovie** | Partner (non-member) | Participated in Minsk talks but excluded due to non-recognition as a state. |
