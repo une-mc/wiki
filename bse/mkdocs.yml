@@ -1,6 +1,6 @@
 site_name: Большая советская энциклопедия
 site_description: State encyclopaedia. Approved by the Ministry of Culture.
-site_url: https://billy-teraire.github.io/bse
+site_url: https://une-mc.github.io/bse
 
 theme:
   name: material
