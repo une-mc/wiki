@@ -7,7 +7,7 @@
 <!-- Logo -->
 <tr>
   <td class="section center">
-    <img class="logo" src="../../../_assets/images/companies/vodka-monopoly/logo.png" alt="Vodka Monopoly logo" />
+    <img class="logo" src="../../../../_assets/images/companies/vodka-monopoly/logo.png" alt="Vodka Monopoly logo" />
     <div class="caption"><em>Company logo</em></div>
   </td>
 </tr>
