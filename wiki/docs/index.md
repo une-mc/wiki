@@ -1,4 +1,4 @@
-# 🌐 United Nations Wiki
+# 🇺🇳 United Nations Wiki
 
 Welcome to the official **United Nations Wiki**, the central repository of knowledge for the modern international community. This is the hub for information about the organisation itself, its member states, specialised agencies, peacekeeping operations, and major global events that shape our shared history.
 
@@ -10,7 +10,7 @@ The aim of this wiki is to provide a **comprehensive, neutral, and accessible** 
 
 ---
 
-## 📌 Editing Principles
+## 📰 Editing Principles
 
 * Strive for neutrality, even in heated topics.
 * Use clear sourcing where possible.
@@ -18,6 +18,6 @@ The aim of this wiki is to provide a **comprehensive, neutral, and accessible** 
 
 ---
 
-## 🌍 Get Involved
+## ✏️ Get Involved
 
 The United Nations Wiki is a **collaborative project** — contributions are welcome. Whether you’re expanding state profiles, documenting a summit, or maintaining statistical data, every edit helps.
