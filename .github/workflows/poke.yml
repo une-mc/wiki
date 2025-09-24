@@ -1,0 +1,11 @@
+name: poke
+on:
+  push:
+    branches: ['**']
+  workflow_dispatch:
+
+jobs:
+  say:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "hi from $GITHUB_REPOSITORY on $GITHUB_REF"
