@@ -93,6 +93,9 @@ nav:
           - Russia:
               - Companies:
                   - Vodka Monopoly: economy/russia/companies/vodka-monopoly.md
+          - Ukraine:
+              - Companies:
+                  - UBP: economy/ukraine/companies/ubp.md
           - Switzerland: 
               - Companies:
                   - SNHK: economy/switzerland/companies/snhk.md
