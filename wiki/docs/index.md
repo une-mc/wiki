@@ -1,49 +1,23 @@
-# Большая советская энциклопедия  
-**State Encyclopaedia — Published under the authority of the Ministry of Culture**
+# 🌐 United Nations Wiki
 
-> *“Knowledge is a public utility; truth is a matter of public trust.”*  
-> — Editorial Statute, §1  
+Welcome to the official **United Nations Wiki**, the central repository of knowledge for the modern international community. This is the hub for information about the organisation itself, its member states, specialised agencies, peacekeeping operations, and major global events that shape our shared history.
 
 ---
 
-## Welcome
-The **Great Soviet Encyclopaedia (BSE)** is the **official state encyclopaedia of the Federation**.  
-It replaces the UNE Wiki and all similar projects as the **sole authoritative general reference**, providing reliable knowledge across every field — from politics and history to science, technology, and culture.  
+## 📖 Purpose
 
-The BSE exists not only to inform, but to ensure that **public knowledge remains accurate, coherent, and free from distortion**. It is a state guarantee of truth for citizens, students, educators, researchers, and international readers.  
+The aim of this wiki is to provide a **comprehensive, neutral, and accessible** reference on the work of the United Nations and its partners. From Security Council resolutions to humanitarian operations in the field, this site is the go-to resource for researchers, roleplayers, and anyone interested in understanding how international diplomacy unfolds.
 
 ---
 
-## Editorial Process
+## 📌 Editing Principles
 
-- **Drafts** are prepared by editors and contributors.  
-- **Review** is carried out by the Ministry of Culture.  
-- **Approval** is granted by ministerial order; only approved texts are authoritative.   
-
----
-
-## Contributing
-
-Citizens, scholars, and institutions may propose new articles or corrections.  
-To submit a contribution, include:  
-
-1. The **article title and section**  
-2. The **proposed text or amendment**  
-3. Supporting **sources** (official data, decrees, archival material, recognised publications)  
-
-The editorial board evaluates proposals. Publication remains at the discretion of the Ministry of Culture.
+* Strive for neutrality, even in heated topics.
+* Use clear sourcing where possible.
+* Follow consistent formatting across articles for readability.
 
 ---
 
-## Why the BSE?
+## 🌍 Get Involved
 
-- **Comprehensive:** Covers all domains of knowledge, from astrophysics to folklore.  
-- **Reliable:** Immune to misinformation and vandalism; only reviewed text is published.  
-- **Accessible:** Free to consult for all.  
-- **Stable:** Figures and terms are contextualised with dates to preserve accuracy over time.  
-
-The BSE continues the Soviet encyclopaedic tradition in a modern form: a **centralised, curated knowledge system** designed for the digital age and the public good.  
-
----
-
-*Last updated: `2025-09-23`*
+The United Nations Wiki is a **collaborative project** — contributions are welcome. Whether you’re expanding state profiles, documenting a summit, or maintaining statistical data, every edit helps.
