@@ -1,6 +1,6 @@
-site_name: Большая советская энциклопедия
-site_description: State encyclopaedia. Approved by the Ministry of Culture.
-site_url: https://une-mc.github.io/bse
+site_name: UNE Wiki
+site_description: The UNE Wiki
+site_url: https://une-mc.github.io/wiki
 
 theme:
   name: material
@@ -14,14 +14,14 @@ theme:
     - search.highlight
   palette:
     - scheme: default
-      primary: red
-      accent: red
+      primary: "#00132c"
+      accent: "#00132c"
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
-      primary: red
-      accent: red
+      primary: "#00132c"
+      accent: "#00132c"
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
