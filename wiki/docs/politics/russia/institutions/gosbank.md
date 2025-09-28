@@ -37,7 +37,7 @@
 
 The original **Gosbank of the USSR** (1921–1991) functioned as the world’s largest centralised bank, holding a monopoly over credit and currency within the planned economy. Following the Soviet Union’s collapse, it was dismantled and fragmented into smaller institutions.
 
-In **2025**, amid Russia’s economic restructuring and the move away from the fragile 2024 Constitution, the state revived Gosbank as both a symbolic and practical institution. Its creation was presented as a return to **economic sovereignty**, consolidating control over finance under a single roof.
+In **2025**, amid Russia’s economic restructuring, the state revived Gosbank as both a symbolic and practical institution. Its creation was presented as a return to **economic sovereignty**, consolidating control over finance under a single roof.
 
 ---
 
