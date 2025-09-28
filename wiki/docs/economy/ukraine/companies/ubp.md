@@ -8,7 +8,7 @@
 <tr>
   <td class="section center">
     <img class="logo" src="../../../../_assets/images/companies/ubp/logo.png" alt="UBP logo" />
-    <div class="caption"><em>Company logo (placeholder)</em></div>
+    <div class="caption"><em>Company logo</em></div>
   </td>
 </tr>
 

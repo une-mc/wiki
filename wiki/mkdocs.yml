@@ -92,6 +92,9 @@ nav:
       - Economy:
           - Russia:
               - Companies:
+                  - United Resources Corporation: economy/russia/companies/ork.md
+                  - Rostec: economy/russia/companies/rostec.md
+                  - Russian Railways: economy/russia/companies/rzd.md
                   - Vodka Monopoly: economy/russia/companies/vodka-monopoly.md
           - Ukraine:
               - Companies:
