@@ -30,7 +30,7 @@
     <tr><td class="k">Official language(s):</td><td class="v">Belarusian, Russian</td></tr>
     <tr><td class="k">Religion:</td><td class="v">Orthodox Christianity (majority)</td></tr>
     <tr><td class="k">Demonym:</td><td class="v">Belarusian</td></tr>
-    <tr><td class="k">Government type:</td><td class="v">Unitary republic</td></tr>
+    <tr><td class="k">Government type:</td><td class="v">Unitary presidential republic</td></tr>
     <tr><td class="k">Legislature:</td><td class="v">National Assembly</td></tr>
     <tr><td class="k">Formation:</td><td class="v">2025</td></tr>
     <tr><td class="k">Population:</td><td class="v">1 (2025 est.)</td></tr>
@@ -64,7 +64,7 @@ Belarus consists mainly of flatlands and forests, interspersed with rivers and l
 
 ## Government and Politics
 
-Belarus is a **unitary republic** with a **semi-presidential system**. The executive power is shared between the President and the Prime Minister, while the **National Assembly** serves as the legislative branch. Since 2025, Belarus has participated actively in the **CIS framework**, aligning parts of its domestic and foreign policy with its partners.
+Belarus is a **unitary republic** with a **strong presidential system**. The executive power is largely vested in the **President**, who holds the power to appoint the Prime Minister and dissolve the parliament. The **National Assembly** serves as the legislative branch. Since 2025, Belarus has participated actively in the **CIS framework**, aligning parts of its domestic and foreign policy with its partners.
 
 ---
 

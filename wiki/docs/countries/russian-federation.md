@@ -33,7 +33,7 @@
     <tr><td class="k">Official language(s):</td><td class="v">Russian</td></tr>
     <tr><td class="k">Religion:</td><td class="v">Orthodox Christianity</td></tr>
     <tr><td class="k">Demonym:</td><td class="v">Russian</td></tr>
-    <tr><td class="k">Government type:</td><td class="v">Federal republic</td></tr>
+    <tr><td class="k">Government type:</td><td class="v">Federal parliamentary republic</td></tr>
     <tr><td class="k">Legislature:</td><td class="v">Supreme Soviet</td></tr>
     <tr><td class="k">Formation:</td><td class="v">9 may 2024</td></tr>
     <tr><td class="k">Population:</td><td class="v">6 (2025 est.)</td></tr>
@@ -92,12 +92,15 @@ However, only 45% of deputies supported the draft. On **19 September 2025**, the
 
 ## Government & Politics
 
-The Russian Federation is a **federal republic** headed by a Prime Minister but with a powerful Presidency:
+The Russian Federation functions as a **federal parliamentary republic**. Although the 2024 Constitution initially envisaged a **dual executive** with a strong Presidency, subsequent amendments shifted authority decisively toward the legislature and Prime Minister.
 
-* The President could appoint the PM and dissolve the legislature.
-* The **Supreme Soviet** (unicameral) is the legislative authority.
-* Republics retained limited autonomy; oblasts were standardised as units.
-* Coalition governments were common, though instability remained.
+* **Prime Minister:** The head of government, elected by and accountable to the **Supreme Soviet**. Holds responsibility for day-to-day governance, cabinet formation, and proposing legislation.
+* **President:** Originally endowed with powers to dissolve parliament and appoint the PM, the office was reduced by constitutional amendments to a **largely ceremonial role**. Today, the President serves mainly symbolic and representational functions.
+* **Supreme Soviet:** A **unicameral legislature** seated in the Moscow White House. It holds primary law-making authority, including the right to amend the constitution, approve governments, and call elections. Coalition dynamics dominate its sessions, reflecting the fractured party system.
+* **Federalism:** The Federation preserves a union of republics and oblasts, though reforms abolished autonomous oblasts. Republics retain extensive autonomy; oblasts are administered under a standardised model.
+* **Party system:** Politics is characterised by constant **coalition manoeuvring**. The Social Democrats and Communists often partner to secure reforms, while liberal and conservative blocs play pivotal roles as kingmakers or opposition.
+
+The Russian Federation is effectively governed by a **parliamentary majority**, with the Prime Minister as the centre of executive authority and the Supreme Soviet as the decisive institution.
 
 ---
 

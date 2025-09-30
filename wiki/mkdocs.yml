@@ -50,18 +50,18 @@ nav:
       - Organisations:
           - Commonwealth of Independent States: organisations/cis.md
       - Countries:
-          - Russia: countries/russian-federation.md
-          - Ukraine: countries/ukraine.md
-          - Belarus: countries/belarus.md
-          - Pridnestrovie: countries/pridnestrovie.md
           - Austria: countries/austria.md
+          - Belarus: countries/belarus.md
           - Luxembourg: countries/luxembourg.md
           - North Macedonia: countries/fyrom.md
+          - Russia: countries/russian-federation.md
+          - Ukraine: countries/ukraine.md
+          - Pridnestrovie: countries/pridnestrovie.md
       - People:
           - Russia:
             - Hugo: people/russia/hugo.md
-            - Xee: people/russia/xee.md
             - The0nlyBob: people/russia/theonlybob.md
+            - Xee: people/russia/xee.md
       - Politics:
           - Russia:
               - Overview: politics/russia/_index.md
@@ -84,7 +84,9 @@ nav:
       - Geography:
           - Russia:
               - Cities:
+                  - Königsberg: geography/russia/cities/konigsberg.md
                   - Moscow: geography/russia/cities/moscow.md
+                  - St. Petersburg: geography/russia/cities/st-petersburg.md
                   - Smolensk: geography/russia/cities/smolensk.md
               - Regions:
                   - Republic of Karelia: geography/russia/regions/karelia.md
@@ -97,9 +99,9 @@ nav:
                   - Rostec: economy/russia/companies/rostec.md
                   - Russian Railways: economy/russia/companies/rzd.md
                   - Vodka Monopoly: economy/russia/companies/vodka-monopoly.md
-          - Ukraine:
-              - Companies:
-                  - UBP: economy/ukraine/companies/ubp.md
           - Switzerland: 
               - Companies:
                   - SNHK: economy/switzerland/companies/snhk.md
+          - Ukraine:
+              - Companies:
+                  - UBP: economy/ukraine/companies/ubp.md
