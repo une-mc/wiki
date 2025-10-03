@@ -8,11 +8,11 @@
 <tr><td class="section center">
   <div class="img-row">
     <div class="img-col">
-      <img class="flag" src="../../../_assets/images/regions/karelia/flag.png" alt="Flag of Karelia" />
+      <img class="flag" src="../../../../_assets/images/regions/karelia/flag.png" alt="Flag of Karelia" />
       <div class="caption"><em>Flag</em></div>
     </div>
     <div class="img-col">
-      <img class="coa" src="../../../_assets/images/regions/karelia/coa.png" alt="Coat of arms of Karelia" />
+      <img class="coa" src="../../../../_assets/images/regions/karelia/coa.png" alt="Coat of arms of Karelia" />
       <div class="caption"><em>Coat of arms</em></div>
     </div>
   </div>
@@ -21,7 +21,7 @@
 <!-- Map -->
 <tr><td class="section center">
   <div class="caption" style="font-weight:600; margin-bottom:.4rem;">Location of Karelia in Russia</div>
-  <img class="map" src="../../../_assets/images/regions/karelia/map.png" alt="Map of Karelia" />
+  <img class="map" src="../../../../_assets/images/regions/karelia/map.png" alt="Map of Karelia" />
   <span class="caption"><em>Map of Karelia</em></span>
 </td></tr>
 
