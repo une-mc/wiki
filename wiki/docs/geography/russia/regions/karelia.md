@@ -3,7 +3,7 @@
     <tr><td class="title">Republic of Karelia<br/>
     <span style="font-weight:400; opacity:.8;">Республика Карелия</span></td></tr>
     <span style="font-weight:400; opacity:.8;">Karjalan tašavalta</span></td></tr>
-```
+
 <!-- Flag + Coat of arms -->
 <tr><td class="section center">
   <div class="img-row">
@@ -35,7 +35,6 @@
     <tr><td class="k">Population:</td><td class="v">1 (2025 est.)</td></tr>
   </table>
 </td></tr>
-```
 
   </table>
 </div>

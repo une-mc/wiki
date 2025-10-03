@@ -2,7 +2,6 @@
   <table class="infobox">
     <tr><td class="title">Pridnestrovian Moldavian Republic<br/><span style="font-weight:400; opacity:.8;">Приднестровская Молдавская Республика</span></td></tr>
 
-```
 <tr><td class="section center">
   <div class="img-row">
     <div class="img-col">
@@ -39,7 +38,6 @@
     <tr><td class="k">Currency:</td><td class="v">Russian Ruble (RUB)</td></tr>
   </table>
 </td></tr>
-```
 
   </table>
 </div>
