@@ -5,11 +5,11 @@
 <tr><td class="section center">
   <div class="img-row">
     <div class="img-col">
-      <img class="flag" src="../../_assets/images/countries/pmr/flag.png" alt="Flag of Pridnestrovie" />
+      <img class="flag" src="../../../_assets/images/countries/pmr/flag.png" alt="Flag of Pridnestrovie" />
       <div class="caption"><em>Flag</em></div>
     </div>
     <div class="img-col">
-      <img class="coa" src="../../_assets/images/countries/pmr/coa.png" alt="Coat of arms of Pridnestrovie" />
+      <img class="coa" src="../../../_assets/images/countries/pmr/coa.png" alt="Coat of arms of Pridnestrovie" />
       <div class="caption"><em>Coat of arms</em></div>
     </div>
   </div>
@@ -18,7 +18,7 @@
 <!-- Map -->
 <tr><td class="section center">
   <div class="caption" style="font-weight:600; margin-bottom:.4rem;">Location of Pridnestrovie</div>
-  <img class="map" src="../../_assets/images/countries/pmr/map.png" alt="Map of Pridnestrovie" />
+  <img class="map" src="../../../_assets/images/countries/pmr/map.png" alt="Map of Pridnestrovie" />
   <span class="caption"><em>Map of Pridnestrovie</em></span>
 </td></tr>
 
