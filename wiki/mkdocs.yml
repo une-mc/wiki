@@ -56,7 +56,6 @@ nav:
           - North Macedonia: countries/fyrom.md
           - Russia: countries/russian-federation.md
           - Ukraine: countries/ukraine.md
-          - Pridnestrovie: countries/pridnestrovie.md
       - People:
           - Russia:
             - Hugo: people/russia/hugo.md
@@ -90,6 +89,7 @@ nav:
                   - Smolensk: geography/russia/cities/smolensk.md
               - Regions:
                   - Republic of Karelia: geography/russia/regions/karelia.md
+                  - Pridnestrovie : geography/russia/regions/pridnestrovie.md
                   - Smolensk Oblast: geography/russia/regions/smolensk.md
                   - Tver Oblast: geography/russia/regions/tver.md
       - Economy:
