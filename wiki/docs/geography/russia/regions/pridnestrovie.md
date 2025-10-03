@@ -90,10 +90,3 @@ Pridnestrovie’s economy is modest but strategically supported:
 * **Industry:** light manufacturing in Tiraspol and Bender.
 * **Infrastructure:** reconstruction efforts funded by Moscow continue.
 * **Currency:** the **Russian ruble** replaced the local Pridnestrovian ruble upon accession.
-
----
-
-## International Status
-
-* **As of October 2025**, Pridnestrovie is recognised as part of the **Russian Federation** by Moscow and CIS partners.
-* Western governments continue to regard the territory as part of **Moldova**, and reject the annexation.
