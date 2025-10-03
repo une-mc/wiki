@@ -1,8 +1,8 @@
 <div class="infobox-right">
   <table class="infobox">
     <tr><td class="title">Republic of Karelia<br/>
-    <span style="font-weight:400; opacity:.8;">Республика Карелия</span></td></tr>
-    <span style="font-weight:400; opacity:.8;">Karjalan tašavalta</span></td></tr>
+    <span style="font-weight:400; opacity:.8;">Республика Карелия 
+    <br/> Karjalan tašavalta</span></td></tr>
 
 <!-- Flag + Coat of arms -->
 <tr><td class="section center">
