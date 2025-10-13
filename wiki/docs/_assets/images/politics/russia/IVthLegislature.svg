@@ -91,14 +91,6 @@
     <g style="fill:#00bfff"
        id="2-Yabloko">
         <title>Yabloko</title>
-    </g>
-    <g style="fill:#0f5cc0"
-       id="3-Rodina">
-        <title>Rodina</title>
-    </g>
-    <g style="fill:#0000cc"
-       id="4-LDPR">
-        <title>LDPR</title>
         <circle cx="296.96" cy="63.23" r="7.78"/>
         <circle cx="286.67" cy="80.55" r="7.78"/>
         <circle cx="276.18" cy="98.00" r="7.78"/>
@@ -124,6 +116,14 @@
         <circle cx="306.01" cy="170.28" r="7.78"/>
         <circle cx="325.51" cy="170.28" r="7.78"/>
         <circle cx="344.99" cy="170.28" r="7.78"/>
+    </g>
+    <g style="fill:#0f5cc0"
+       id="3-Rodina">
+        <title>Rodina</title>
+    </g>
+    <g style="fill:#0000cc"
+       id="4-LDPR">
+        <title>LDPR</title>
     </g>
 </svg>
 

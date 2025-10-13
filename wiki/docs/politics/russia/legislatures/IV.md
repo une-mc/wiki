@@ -51,4 +51,3 @@ The **Yabloko** party, holding 25 seats, formed the **liberal opposition**, ofte
 
 A notable feature of this legislature was the **absence of the Liberal Democratic Party of Russia (LDPR)**, whose registration under the new **Parties Registration Law** was initially rejected, barring it from participation. In **late 2024**, the courts ruled the refusal unlawful, reinstating the party’s registration — but only **after the election had already taken place**.  
 
-The 4th Supreme Soviet laid the institutional groundwork for the socialist-leaning constitutional reforms that defined the early months of 2025.
