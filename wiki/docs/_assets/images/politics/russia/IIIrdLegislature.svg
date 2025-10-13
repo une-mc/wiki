@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg" version="1.1"
+     width="360.0" height="185.0">
+    <!-- Created with parliamentarch (https://github.com/Gouvernathor/parliamentarch/) -->
+    <text x="180.0" y="175.0"
+          style="font-size:36px;font-weight:bold;text-align:center;text-anchor:middle;font-family:sans-serif">100</text>
+    <g style="fill:#e60026"
+       id="0-KPRF">
+        <title>KPRF</title>
+        <circle cx="15.01" cy="170.28" r="7.78"/>
+        <circle cx="34.49" cy="170.28" r="7.78"/>
+        <circle cx="53.99" cy="170.28" r="7.78"/>
+        <circle cx="73.50" cy="170.28" r="7.78"/>
+        <circle cx="93.04" cy="170.28" r="7.78"/>
+    </g>
+    <g style="fill:#ff8fab"
+       id="1-RSDRP">
+        <title>RSDRP</title>
+        <circle cx="17.39" cy="150.44" r="7.78"/>
+        <circle cx="37.17" cy="150.53" r="7.78"/>
+        <circle cx="57.06" cy="150.66" r="7.78"/>
+        <circle cx="77.10" cy="150.86" r="7.78"/>
+        <circle cx="22.14" cy="131.04" r="7.78"/>
+        <circle cx="97.39" cy="151.16" r="7.78"/>
+        <circle cx="42.52" cy="131.34" r="7.78"/>
+        <circle cx="63.17" cy="131.78" r="7.78"/>
+        <circle cx="29.20" cy="112.35" r="7.78"/>
+        <circle cx="84.22" cy="132.43" r="7.78"/>
+        <circle cx="50.44" cy="113.06" r="7.78"/>
+        <circle cx="38.47" cy="94.65" r="7.78"/>
+        <circle cx="72.17" cy="114.08" r="7.78"/>
+        <circle cx="105.88" cy="133.49" r="7.78"/>
+        <circle cx="60.77" cy="96.02" r="7.78"/>
+        <circle cx="94.60" cy="115.62" r="7.78"/>
+        <circle cx="49.80" cy="78.19" r="7.78"/>
+        <circle cx="83.82" cy="98.00" r="7.78"/>
+        <circle cx="73.33" cy="80.55" r="7.78"/>
+        <circle cx="63.04" cy="63.23" r="7.78"/>
+        <circle cx="118.10" cy="118.16" r="7.78"/>
+        <circle cx="107.90" cy="101.02" r="7.78"/>
+        <circle cx="97.85" cy="83.95" r="7.78"/>
+        <circle cx="87.89" cy="66.94" r="7.78"/>
+        <circle cx="77.98" cy="49.97" r="7.78"/>
+        <circle cx="133.42" cy="105.93" r="7.78"/>
+        <circle cx="123.65" cy="89.10" r="7.78"/>
+        <circle cx="113.90" cy="72.27" r="7.78"/>
+        <circle cx="104.16" cy="55.44" r="7.78"/>
+        <circle cx="94.42" cy="38.61" r="7.78"/>
+        <circle cx="112.10" cy="29.31" r="7.78"/>
+        <circle cx="121.84" cy="46.27" r="7.78"/>
+        <circle cx="131.59" cy="63.25" r="7.78"/>
+        <circle cx="141.33" cy="80.29" r="7.78"/>
+        <circle cx="151.08" cy="97.42" r="7.78"/>
+    </g>
+    <g style="fill:#00bfff"
+       id="2-Yabloko">
+        <title>Yabloko</title>
+        <circle cx="130.78" cy="22.22" r="7.78"/>
+        <circle cx="140.61" cy="39.59" r="7.78"/>
+        <circle cx="150.47" cy="57.11" r="7.78"/>
+        <circle cx="160.33" cy="74.88" r="7.78"/>
+        <circle cx="150.18" cy="17.44" r="7.78"/>
+        <circle cx="160.12" cy="35.53" r="7.78"/>
+        <circle cx="170.20" cy="93.05" r="7.78"/>
+        <circle cx="170.07" cy="54.00" r="7.78"/>
+        <circle cx="170.01" cy="15.02" r="7.78"/>
+        <circle cx="180.00" cy="34.17" r="7.78"/>
+        <circle cx="180.00" cy="73.06" r="7.78"/>
+        <circle cx="189.99" cy="15.02" r="7.78"/>
+        <circle cx="189.93" cy="54.00" r="7.78"/>
+        <circle cx="189.80" cy="93.05" r="7.78"/>
+        <circle cx="199.88" cy="35.53" r="7.78"/>
+        <circle cx="209.82" cy="17.44" r="7.78"/>
+        <circle cx="199.67" cy="74.88" r="7.78"/>
+        <circle cx="209.53" cy="57.11" r="7.78"/>
+        <circle cx="219.39" cy="39.59" r="7.78"/>
+        <circle cx="229.22" cy="22.22" r="7.78"/>
+        <circle cx="208.92" cy="97.42" r="7.78"/>
+        <circle cx="218.67" cy="80.29" r="7.78"/>
+        <circle cx="228.41" cy="63.25" r="7.78"/>
+        <circle cx="238.16" cy="46.27" r="7.78"/>
+        <circle cx="247.90" cy="29.31" r="7.78"/>
+        <circle cx="265.58" cy="38.61" r="7.78"/>
+        <circle cx="255.84" cy="55.44" r="7.78"/>
+        <circle cx="246.10" cy="72.27" r="7.78"/>
+        <circle cx="236.35" cy="89.10" r="7.78"/>
+        <circle cx="226.58" cy="105.93" r="7.78"/>
+        <circle cx="282.02" cy="49.97" r="7.78"/>
+        <circle cx="272.11" cy="66.94" r="7.78"/>
+        <circle cx="262.15" cy="83.95" r="7.78"/>
+        <circle cx="252.10" cy="101.02" r="7.78"/>
+        <circle cx="241.90" cy="118.16" r="7.78"/>
+        <circle cx="296.96" cy="63.23" r="7.78"/>
+        <circle cx="286.67" cy="80.55" r="7.78"/>
+        <circle cx="276.18" cy="98.00" r="7.78"/>
+        <circle cx="310.20" cy="78.19" r="7.78"/>
+        <circle cx="265.40" cy="115.62" r="7.78"/>
+    </g>
+    <g style="fill:#0f5cc0"
+       id="3-Rodina">
+        <title>Rodina</title>
+    </g>
+    <g style="fill:#0000cc"
+       id="4-LDPR">
+        <title>LDPR</title>
+        <circle cx="299.23" cy="96.02" r="7.78"/>
+        <circle cx="254.12" cy="133.49" r="7.78"/>
+        <circle cx="287.83" cy="114.08" r="7.78"/>
+        <circle cx="321.53" cy="94.65" r="7.78"/>
+        <circle cx="309.56" cy="113.06" r="7.78"/>
+        <circle cx="275.78" cy="132.43" r="7.78"/>
+        <circle cx="330.80" cy="112.35" r="7.78"/>
+        <circle cx="296.83" cy="131.78" r="7.78"/>
+        <circle cx="317.48" cy="131.34" r="7.78"/>
+        <circle cx="262.61" cy="151.16" r="7.78"/>
+        <circle cx="337.86" cy="131.04" r="7.78"/>
+        <circle cx="282.90" cy="150.86" r="7.78"/>
+        <circle cx="302.94" cy="150.66" r="7.78"/>
+        <circle cx="322.83" cy="150.53" r="7.78"/>
+        <circle cx="342.61" cy="150.44" r="7.78"/>
+        <circle cx="266.96" cy="170.28" r="7.78"/>
+        <circle cx="286.50" cy="170.28" r="7.78"/>
+        <circle cx="306.01" cy="170.28" r="7.78"/>
+        <circle cx="325.51" cy="170.28" r="7.78"/>
+        <circle cx="344.99" cy="170.28" r="7.78"/>
+    </g>
+</svg>
+
