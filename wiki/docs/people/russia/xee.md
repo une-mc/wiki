@@ -18,6 +18,17 @@
         </div>
         <div class="kv"><div class="k">Preceded by</div><div class="v"> Hugo von Namsgrad</div></div>
         <div class="kv"><div class="k">Succeeded by</div><div class="v"> Hugo von Namsgrad</div></div>
+        
+        <br/>
+
+        <div class="office-title" style="font-weight:bold; text-align:center;">
+          Minister of Defense
+        </div>
+        <div style="text-align:center;">
+          In office<br/>30 june – 11 July 2024
+        </div>
+        <div class="kv"><div class="k">Preceded by</div><div class="v"> unknown</div></div>
+        <div class="kv"><div class="k">Succeeded by</div><div class="v"> unknown</div></div>
     </tr>
 
     <tr>
