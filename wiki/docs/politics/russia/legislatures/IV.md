@@ -41,13 +41,79 @@
   </table>
 </div>
 
-# 4th Supreme Soviet (August 2024 – January 2025)
+# 4th legislature of the Russian Federation (August 2024 – January 2025)
 
-The **4th Supreme Soviet** was elected on **4 August 2024** and remained in office until **8 January 2025**, serving during one of the most politically turbulent phases of the Russian Federation.  
+The **4th legislature of the Russian Federation** was elected on **4 August 2024** and served until **8 January 2025**, overseeing the **peak of Russia’s post-Rodina left-wing period**.  
+Dominated by the **Russian Social Democratic Labour Party (RSDRP)** and supported by the **Communist Party of the Russian Federation (KPRF)**, it implemented sweeping reforms in industry, finance, and governance that transformed the Russian economy and political structure.
 
-The legislature comprised **100 seats**, dominated by the **Russian Social Democratic Labour Party (RSDRP)**, which held a commanding majority and led a **coalition government** with the **Communist Party of the Russian Federation (KPRF)**. Together, they controlled 75 seats, pursuing an agenda of accelerated industrialisation, nationalisation of key sectors, and the consolidation of parliamentary authority.  
+---
 
-The **Yabloko** party, holding 25 seats, formed the **liberal opposition**, often criticising the government’s centralisation policies while supporting limited social reforms and political pluralism.  
+## Composition of the Executive
 
-A notable feature of this legislature was the **absence of the Liberal Democratic Party of Russia (LDPR)**, whose registration under the new **Parties Registration Law** was initially rejected, barring it from participation. In **late 2024**, the courts ruled the refusal unlawful, reinstating the party’s registration — but only **after the election had already taken place**.  
+The executive, led by **Prime Minister Hugo von Namsgrad (RSDRP)**, held one of the most powerful mandates in modern Russian history.  
+Although formally appointed by the President — as per the **May 2024 Constitution** — this legislature’s reforms transferred the appointment power to the parliament itself, a symbolic assertion of **legislative supremacy**.  
+The KPRF, holding only 5 seats, participated in government mainly in an advisory role.
 
+| Office | Name | Party / Faction | Notes |
+|--------|------|------------------|-------|
+| **Prime Minister** | **Hugo von Namsgrad** | RSDRP | Architect of the industrialisation programme |
+| **Deputy Prime Minister (Economy)** | (RSDRP appointee) | RSDRP | Oversaw nationalisation and price control policy |
+| **Minister of Industry** | (RSDRP appointee) | RSDRP | Directed the Five-Month Industrial Plan |
+| **Minister of Finance** | (RSDRP appointee) | RSDRP | Implemented diamond–ruble peg and wage stabilisation |
+| **Minister without portfolio** | (KPRF delegate) | KPRF | Represented communist bloc interests in cabinet |
+
+---
+
+## History of the Legislature
+
+### Election
+
+The **August 2024 election** followed the collapse of the Yabloko–LDPR coalition and marked a decisive shift to the left.  
+With the right discredited and divided — **Rodina** shattered, **LDPR** barred under the new **Parties Registration Law**, and **Yabloko** blamed for the previous government’s instability — the **RSDRP–KPRF alliance** won a **supermajority of 75 seats**.  
+
+The result reflected both popular exhaustion with short-lived coalitions and enthusiasm for an organised socialist alternative.  
+For the first time, Russia had a **unified leftist government** capable of governing without compromise.
+
+---
+
+### Formation
+
+Hugo von Namsgrad was reappointed Prime Minister by the President, though this would be the last time such a procedure occurred.  
+Within months, the 4th Legislature **amended the constitution** to make the **Prime Minister elected by the Supreme Soviet**, ending presidential control over the executive and codifying parliamentary supremacy.
+
+The legislature’s structure gave the RSDRP near-total control of policy, with the KPRF serving as a symbolic partner.  
+The opposition, limited to Yabloko’s 25 deputies, often abstained rather than opposed, recognising the government’s overwhelming majority.
+
+---
+
+### Government Agenda
+
+The 4th Legislature launched an ambitious **Five-Month Industrialisation Plan**, seeking to transform Russia from a post-collapse economy into a modern industrial state — *without dependence on foreign capital or imports*.  
+
+Key policies included:
+
+- **Creation of a state-directed industrial sector**, centred on heavy industry in Smolensk and Moscow oblasts.  
+- **Massive expansion of railway infrastructure**, connecting major cities and industrial hubs.  
+- **State planning committees** to coordinate production targets, investment, and logistics.
+
+Economic policy under von Namsgrad followed a doctrine of **self-sufficiency and controlled development**, inspired by early 20th-century dirigiste models.  
+Imports were **virtually nonexistent**, as the government adopted **total protectionism** and pursued a **voluntary economic isolation** from Western markets.  
+Russia deliberately refused to join the **Central European Economic Union (CEEU)** — derided by von Namsgrad as *“Mitteleuropa”* — and rejected all Western trade frameworks.  
+
+Even physical integration was curtailed: the government halted any **rail expansion west of Minsk** and refused participation in **Eurorail**.  
+The resulting economic autarky allowed full central control over production, trade, and pricing.  
+
+By early 2025, the plan had succeeded in laying the foundations of a self-sustaining economy:  
+a functioning heavy industrial base, a rapidly expanding rail network, and the emergence of light manufacturing — all achieved without external loans or partnerships.
+
+
+---
+
+### Dissolution and Legacy
+
+Having fulfilled the programme on which it was elected, the government voluntarily **dissolved the legislature on 8 January 2025**, with von Namsgrad declaring that “the people’s mandate has been honoured, and their voice must now be renewed.”  
+
+The success of the industrial plan consolidated the **RSDRP’s dominance** and confirmed von Namsgrad as a central figure in Russian politics.  
+The **4th Legislature** is widely regarded as a **turning point**, ending years of instability and laying the foundations of the modern Russian socialist system — though not without controversy, as critics accused it of excessive centralisation and marginalisation of local authorities such as **Tver**, whose industries were relocated to federal centres.
+
+---
