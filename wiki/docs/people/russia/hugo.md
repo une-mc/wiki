@@ -25,7 +25,6 @@
         <div class="kv"><div class="k">Succeeded by</div><div class="v"><small>Incumbent</small></div></div>
         <br/>
         
-      <td class="section">
         <div class="office-title" style="font-weight:bold; text-align:center;">
           Prime Minister of Russia
         </div>
