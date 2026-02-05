@@ -72,7 +72,7 @@
 
 # Hugo von Namsgrad
 
-**Hugo von Namsgrad** (Russian: *Хьюго фон Намсград*; born in Nantes, France, early 2000s) is a Russian statesman who has twice held the office of **Prime Minister of the Russian Federation**: first from **May to July 2024** during the short-lived Rodina coalition government, and again since from **August 2024 to February 2026**, leading successive left-wing coalitions. Since **January 2026**, he has served as **Secretary for Foreign Affairs of the Commonwealth of Independent States (CIS)**. He is also the leader of the **Russian Social Democratic Labour Party (RSDRP)**.
+**Hugo von Namsgrad** (Russian: *Хьюго фон Намсград*; born in Nantes, France, early 2000s) is a Russian statesman who has twice held the office of **Prime Minister of the Russian Federation**: first from **May to July 2024** during the short-lived Rodina coalition government, and again from **August 2024 to February 2026**, leading successive left-wing coalitions. Since **January 2026**, he has served as **Secretary for Foreign Affairs of the Commonwealth of Independent States (CIS)**. He is also the leader of the **Russian Social Democratic Labour Party (RSDRP)**.
 <br/><br/>
 ---
 
