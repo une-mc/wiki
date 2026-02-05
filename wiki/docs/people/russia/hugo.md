@@ -16,13 +16,24 @@
     <tr>
       <td class="section">
         <div class="office-title" style="font-weight:bold; text-align:center;">
+          Foreign secretary of the CIS
+        </div>
+        <div style="text-align:center;">
+          In office<br/>Since 25 January 2026 
+        </div>
+        <div class="kv"><div class="k">Preceded by</div><div class="v"><small>Office established</small></div></div>
+        <div class="kv"><div class="k">Succeeded by</div><div class="v"><small>Incumbent</small></div></div>
+        <br/>
+        
+      <td class="section">
+        <div class="office-title" style="font-weight:bold; text-align:center;">
           Prime Minister of Russia
         </div>
         <div style="text-align:center;">
-          In office<br/>Since 5 August 2024
+          In office<br/>5 August 2024 - 4 February 2026
         </div>
         <div class="kv"><div class="k">Preceded by</div><div class="v">Xee</div></div>
-        <div class="kv"><div class="k">Succeeded by</div><div class="v"><small>Incumbent</small></div></div>
+        <div class="kv"><div class="k">Succeeded by</div><div class="v">The0nlyBob</div></div>
         <br/>
 
         <div style="text-align:center;">
@@ -62,7 +73,7 @@
 
 # Hugo von Namsgrad
 
-**Hugo von Namsgrad** (Russian: *Хьюго фон Намсград*; born in Nantes, France, early 2000s) is a Russian statesman who has twice held the office of **Prime Minister of the Russian Federation**: first from **May to July 2024** during the short-lived Rodina coalition government, and again since **August 2024**, leading successive left-wing coalitions. He is also the leader of the **Russian Social Democratic Labour Party (RSDRP)**.
+**Hugo von Namsgrad** (Russian: *Хьюго фон Намсград*; born in Nantes, France, early 2000s) is a Russian statesman who has twice held the office of **Prime Minister of the Russian Federation**: first from **May to July 2024** during the short-lived Rodina coalition government, and again since from **August 2024 to February 2026**, leading successive left-wing coalitions. Since **January 2026**, he has served as **Secretary for Foreign Affairs of the Commonwealth of Independent States (CIS)**. He is also the leader of the **Russian Social Democratic Labour Party (RSDRP)**.
 <br/><br/>
 ---
 
@@ -94,11 +105,21 @@ Appointed Prime Minister on **29 May 2024**, von Namsgrad led a fragile multipar
 
 After a no-confidence vote toppled Xee, von Namsgrad returned as Prime Minister on **5 August 2024** at the head of a left-wing coalition between the **Social Democratic Party** (SDP) and the **Communist Party of the Russian Federation** (KPRF). His cabinet launched the **Five-Month Industrialisation Plan**, introduced the **diamond-backed ruble**, and implemented state-led welfare and price controls.
 
-### SDP–Yabloko coalition (from June 2025)
+### RSDRP–Yabloko coalition and centrist phase (June 2025 – January 2026)
 
-Following elections on **4 June 2025**, the SDP allied with **Yabloko**, shifting to a more centrist government. The coalition rolled back price controls and the diamond peg while preserving welfare guarantees and expanding infrastructure through public–private partnerships.
+Following the June 2025 parliamentary elections, the RSDRP entered a centrist governing coalition with **Yabloko**. The new government pursued partial economic liberalisation, removing strict price controls and ending the diamond currency peg while maintaining core welfare programmes and expanding infrastructure through mixed public–private investment.
 
-In **March 2025**, von Namsgrad oversaw the SDP’s rebranding as the **Russian Social Democratic Labour Party (RSDRP)**, positioning it as the principal centre-left force in Russian politics.
+During this period, von Namsgrad initially supported cautious economic opening as Russia and several allied states adopted the euro as a reserve and trade currency. However, the rapid expansion of speculative financial activity across the Commonwealth increasingly strained coalition unity and contributed to the RSDRP’s gradual return toward anti-capitalist economic policy.
+
+### Confederation and dissolution of parliament (January – February 2026)
+
+In **January 2026**, following the creation of the Commonwealth confederal executive institutions, von Namsgrad assumed the post of **Secretary for Foreign Affairs of the Commonwealth of Independent States (CIS)** while continuing to serve as Prime Minister domestically.
+
+Shortly thereafter, he played a central diplomatic role in resolving the Geneva sovereignty crisis, negotiating the restoration of the city’s neutral international status. The episode intensified internal government conflict after disagreements with Yabloko leadership regarding private financial interests connected to the dispute.
+
+Citing irreconcilable ideological and governance differences, von Namsgrad dissolved the Supreme Soviet in early 2026, triggering snap elections. The election resulted in a decisive victory for the socialist left and the formation of a renewed RSDRP–KPRF alliance government.
+
+Von Namsgrad declined to seek another term as Prime Minister, instead choosing to focus on his role directing foreign policy for the CIS. He was succeeded by KPRF leader The0nlyBob following the formation of the new parliamentary majority.
 
 ---
 
