@@ -1,10 +1,15 @@
 <!doctype html>
-<html>
+<html lang="en">
   <head>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Wiki Editor</title>
-    <script src="https://unpkg.com/decap-cms@^3/dist/decap-cms.js"></script>
   </head>
+
   <body>
+    <div id="nc-root"></div>
+
+    <!-- Load CMS after the body exists -->
+    <script defer src="https://unpkg.com/decap-cms@^3/dist/decap-cms.js"></script>
   </body>
 </html>
