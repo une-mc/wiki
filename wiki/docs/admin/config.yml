@@ -3,7 +3,7 @@ backend:
   repo: une-mc/wiki
   branch: main
   base_url: https://api.github.com
-  auth_endpoint: auth
+  auth_endpoint: https://api.netlify.com/auth
   client_id: Ov23liSR8Fr4u71z10ZP
 
 media_folder: "docs/assets"
