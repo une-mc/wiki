@@ -1,6 +1,8 @@
 site_name: UNE Wiki
 site_description: The UNE Wiki
 site_url: https://une-mc.github.io/wiki
+repo_url: https://github.com/une-mc/wiki
+edit_uri: edit/wiki/docs/
 
 theme:
   name: material
