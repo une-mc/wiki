@@ -1,0 +1,21 @@
+backend:
+  name: github
+  repo: une-mc/wiki
+  branch: main
+  base_url: https://api.github.com
+  auth_endpoint: auth
+
+media_folder: "docs/assets"
+public_folder: "/assets"
+
+collections:
+  - name: "pages"
+    label: "Pages"
+    folder: "docs"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
